@@ -20,6 +20,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// Third commit
+
 app.UseAuthorization();
 
 app.MapControllers();
